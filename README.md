@@ -1,4 +1,4 @@
 # [alandu7.github.io](https://alandu7.github.io)
-This repository contains the details of my personal portfolio, meant to hightlight and share my work, interests and some funny stuffs. 
+This repository showcases my personal portfolio, where I aim to share my work, interests, and some fun stuff. 
 
-Special thanks for Garvit Sharma whose personal website inspired me a lot and Kevin who sharing the nice template with me.
+I would like to express my gratitude to Garvit Sharma, whose personal website served as an inspiration, and to Kevin for sharing the great template with me.
