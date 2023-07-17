@@ -1310,10 +1310,18 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+		    	overflow: hidden;
 		}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
+			}
+
+			.circle {
+			    width: 100%;
+			    height: auto;
+			    border-radius: 100%;
+			    display: block;
 			}
 
 		#header .content {
